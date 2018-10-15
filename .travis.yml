@@ -19,7 +19,7 @@ deploy:
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
   local_dir: com.basistech.m2e.code.quality.site/target/site
-  repo: m2e-code-quality/m2e-code-quality-p2-site
+  repo: antoine-morvan/m2e-code-quality-p2-site
   target_branch: gh-pages
   on:
-    branch: develop
+    branch: test-deploy
