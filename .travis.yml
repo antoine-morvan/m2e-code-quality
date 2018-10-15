@@ -21,5 +21,6 @@ deploy:
   local_dir: com.basistech.m2e.code.quality.site/target/site
   repo: antoine-morvan/m2e-code-quality-p2-site
   target_branch: gh-pages
+  keep-history: true
   on:
     branch: test-deploy
