@@ -19,7 +19,7 @@
 <repository location="http://findbugs.cs.umd.edu/eclipse/"/>
 </location>
 <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
-<unit id="com.github.spotbugs.plugin.eclipse.feature.group" version="3.1.7.r201809130347-03f0119"/>
+<unit id="com.github.spotbugs.plugin.eclipse.feature.group" version="3.1.8.r201810160539-bd2dac1"/>
 <repository location="https://spotbugs.github.io/eclipse/"/>
 </location>
 <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
